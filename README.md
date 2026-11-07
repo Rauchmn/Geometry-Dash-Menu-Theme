@@ -1,1 +1,1 @@
-Use the Blobs extension from PenguinMod, choose Data URL to get.
+Use the Blobs extension from PenguinMod, choose Data URL to fetch.
